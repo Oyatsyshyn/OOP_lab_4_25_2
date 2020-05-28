@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_lab_4_25_2", "OOP_lab_4_25_2\OOP_lab_4_25_2.csproj", "{F397F27D-B80E-4CDB-949C-CEFA68EE5841}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE51BD0E-DF93-42AF-BAC3-5DCABF1B0B43}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F397F27D-B80E-4CDB-949C-CEFA68EE5841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F397F27D-B80E-4CDB-949C-CEFA68EE5841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F397F27D-B80E-4CDB-949C-CEFA68EE5841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F397F27D-B80E-4CDB-949C-CEFA68EE5841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794118EE-5E78-440F-B16C-FAD20576667A}
+	EndGlobalSection
+EndGlobal
